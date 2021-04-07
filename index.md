@@ -2,7 +2,7 @@
 Software Developer | Istanbul, TURKEY
 
 
-## Profile Summary
+## Summary
 * I have 10 years of experience in fullstack and full cycle software development. Some of my past roles are; team leader, scrum master, code QA team lead.
 * My main stack is built on .NET platform but I'm a polyglot. I'm obsessed with clean code and reusability.
 * I worked in development of a variety of projects like B2B, B2C, Forecasting, ERP, CRM, Game Backend, Payment Integrations, Online Store Integrations.
@@ -19,10 +19,10 @@ Software Developer | Istanbul, TURKEY
         * secure and performant by design
         * easy to maintain and extend because it's clean coded
         * monitored
-        * delivered through a neat devops pipeline.
+        * delivered through a devops pipeline.
 
 
-## Languages & Skills & Frameworks & Tools 
+## Skills
 * C#, .NET, .NET Core, ASP.NET
 * OOP, Design Patterns
 * Unit Testing, TDD
