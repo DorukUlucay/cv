@@ -23,7 +23,7 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Skills
-* C#, .NET, .NET Core, ASP.NET
+* C#, F#, .NET, .NET Core, ASP.NET
 * OOP, Design Patterns
 * Unit Testing, TDD
 * Javascript, Typescript
@@ -37,7 +37,8 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Employment History
-* InGame Group(2019-Present)
+* Hack and Craft(2021-Present)
+* InGame Group(2019-2021)
     * Senior Software Developer
 * Cronom(2013-2019)
     * Software Consultant Outsourced to DRD Fleet Rental(2018-2019)
@@ -56,6 +57,7 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Courses
+* F# From The Ground Up, Udemy, Kit Eason, 2021(5.5 Hours)
 * Data Science And Python, Udemy, Datai Team, 2018(4.5 Hours)
 * Python, Udemy, Datai Team, 2018(6 Hours)
 * Test Driven Development, BT Akademi, Gökhan Ercan, 2015(18 Hours)
