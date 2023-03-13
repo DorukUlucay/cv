@@ -3,7 +3,7 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Summary
-* I have 10+ years of experience in fullstack and full cycle software development. Some of my past roles are; team leader, scrum master, code QA team lead. For the last couple of years I work only backend.
+* I have 10+ years of experience in fullstack and full cycle software development. Some of my past roles are; team leader, scrum master, code QA team lead. For the last couple of years I worked on only backend.
 * My experience is mostly with .NET platform and Microsoft technologies. But I am always open to try new things. 
 * I'm obsessed with clean code and reusability.
 * I worked in development of a variety of projects like; B2B, B2C, Forecasting, ERP, CRM, Game Backend, Payment Integrations, Online Store Integrations.
