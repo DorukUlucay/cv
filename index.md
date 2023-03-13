@@ -3,37 +3,37 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Summary
-* I have 10 years of experience in fullstack and full cycle software development. Some of my past roles are; team leader, scrum master, code QA team lead.
-* My main stack is built on .NET platform but I'm a polyglot. I'm obsessed with clean code and reusability.
-* I worked in development of a variety of projects like B2B, B2C, Forecasting, ERP, CRM, Game Backend, Payment Integrations, Online Store Integrations.
+* I have 10+ years of experience in fullstack and full cycle software development. Some of my past roles are; team leader, scrum master, code QA team lead. For the last couple of years I work only backend.
+* My experience is mostly with .NET platform and Microsoft technologies. But I am always open to try new things. 
+* I'm obsessed with clean code and reusability.
+* I worked in development of a variety of projects like; B2B, B2C, Forecasting, ERP, CRM, Game Backend, Payment Integrations, Online Store Integrations.
 * I am familiar with devops, cloud, microservices and container concepts.
 * I easily adapt to business domain. Have good communication with non tech people.
 
 
 ## Objectives
 * Achieve mastery in software development and delivery.
-* Work in a team that deliver high quality software.
+* Be a part of a team that deliver high quality software.
     * High quality software,
         * does what it means to
-        * designed before developed
-        * secure and performant by design
-        * easy to maintain and extend because it's clean coded
-        * monitored
-        * delivered through a devops pipeline.
+        * is designed before developed
+        * is secure and performant by design
+        * is easy to maintain and extend because it's clean coded
+        * is monitored
+        * is delivered through a devops pipeline.
 
 
 ## Skills
-* C#, F#, .NET, .NET Core, ASP.NET
-* OOP, Design Patterns
+* C#, F#, .NET, ASP.NET
+* OOP, DDD, Functional Programming
 * Unit Testing, TDD
-* Javascript, Typescript
-* MS SQL, Oracle, Redis
-* Rest services
+* Javascript
+* MSSQL Server
+* REST
+* Azure
 * Git
-* Scrum
-* Powershell, Bash
-* Python
-* Jenkins, Docker, RabbitMQ
+* Powershell
+* Jenkins, Github Actions, Octopus, Teamcity
 
 
 ## Employment History
