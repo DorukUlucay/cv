@@ -57,6 +57,7 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Courses
+* .NET Microservices: CQRS & Event Sourcing with Kafka, Udemy, Sean Campbell(8.5 hours)
 * F# From The Ground Up, Udemy, Kit Eason, 2021(5.5 Hours)
 * Data Science And Python, Udemy, Datai Team, 2018(4.5 Hours)
 * Python, Udemy, Datai Team, 2018(6 Hours)
