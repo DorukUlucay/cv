@@ -37,7 +37,8 @@ Software Developer | Istanbul, TURKEY
 
 
 ## Employment History
-* Hack and Craft(2021-Present)
+* Qinshift(2023-present)
+* Hack and Craft(2021-2023)
 * InGame Group(2019-2021)
     * Senior Software Developer
 * Cronom(2013-2019)
